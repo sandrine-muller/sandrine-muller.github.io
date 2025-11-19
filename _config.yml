@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : ""
 title_separator          : "-"
 name                     : &name ""
@@ -26,7 +26,7 @@ author:
   avatar           : "Grenoble_City.jpg"
   name             : "Sandrine Muller @ DAISY team - LIG"
   pronouns         : "she/her"  
-  bio              : "Browse our group efforts, projects, and more!"
+  bio              : "Browse some of our group efforts, projects, and more!"
   location         : "Laboratoire d'Informatique de Grenoble, France"
   employer         : "Grenoble Alpes University"
   uri              : "https://sandrine-muller.github.io"

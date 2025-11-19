@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research projects"
+title: "Our research and teaching within the DAISY team at LIG"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,13 @@ redirect_from:
 
 We are dedicated to build and use advanced AI techniques (Bayesian algorithms, reinforcement learning, deep learning, system biology on graph theory...etc.) to help scientists, researchers, and medical professionals in understanding biological mechanisms and diseases applying out tools on RNAseq, proteomics, neuroimaging, neuropsychology... etc. data.
 Our core values include open science, reproducibility, explainability, and co-design with users to improve their experience.
+
+
+---
+
+
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-bd5c0e76-24c5-48a2-8b69-476725a54eb4" data-elfsight-app-lazy></div>
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!

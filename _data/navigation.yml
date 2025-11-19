@@ -12,14 +12,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/  
+  # - title: "Teaching"
+  #   url: /teaching/  
 
   - title: "Openings"
     url: /openings/
@@ -38,6 +38,9 @@ main:
 
   - title: "Come visit!"
     url: /contact/
+
+  - title: "About"
+    url: /about/
     
   # - title: "How-to's"
   #   url: /markdown/
