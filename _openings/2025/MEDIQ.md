@@ -2,13 +2,26 @@
 title: "Master 2 - Project MEDiQ"
 excerpt: "Project for a master 2 or last semester of engineering school internship (PFE) in deep and classic reinforcement learning. This project has the potential to identify novel therapeutic targets and uncover underlying biological mechanisms involved in diseases.
 #explanability #reinforment learning #deep learning #machine learning #rare diseases #knowledge graphs"
-layout: archive
-collection: openings
+date: 2025-11-19
+permalink: /openings/2025/MEDIQ
+tags:
+  - job offer
+  - explanability
+  - reinforment learning
+  - deep learning
+  - machine learning
+  - rare diseases
+  - knowledge graphs
+---
+
+
+
 ---
 Our team is looking to fill the following positions:
 
 
-### Master Project MEDiQ
+Master Project MEDiQ (PFE, possibility to continue in PhD)
+======
 #### Context and Motivation
 The Biomedical [Data Translator project (NIH/NCATS)](https://ncats.nih.gov/research/research-activities/translator/about) seeks to revolutionize disease biology understanding by developing a robust and interpretable machine learning framework that translates complex biomedical data into actionable insights. In a federated and distributed framework, the platform makes recommendations of biological mechanisms involved in diseases to researchers from different disciplines. AI models analyze data across multiple sources, including clinical trials, genomic sequencing, proteomics, metabolomics, etc and provide an explanation of their reasoning that led to the recommendations. 
 
