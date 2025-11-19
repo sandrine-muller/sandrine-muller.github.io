@@ -1,6 +1,6 @@
 ---
 title: "The Biomedical data Translator"
-excerpt: "The Biomedical data Translator project (NIH/NCATS) seeks to revolutionize disease biology understanding by developing a robust ML framework.<br/><img src='/images/translator-banner-200x113.jpg'>"
+excerpt: "The Biomedical data Translator project (NIH/NCATS) seeks to revolutionize disease biology understanding by developing a robust ML framework.<br/><img src='/images/translator-banner-250x113.jpg'>"
 collection: portfolio
 ---
 ## The Biomedical data Translator
