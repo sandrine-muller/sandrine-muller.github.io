@@ -10,19 +10,19 @@
 main:
   
   - title: "Portfolio"
-    url: /portfolio/
+    url: "{{ site.baseurl }}/portfolio/"
 
   - title: "Publications"
-    url: /publications/
+    url: "{{ site.baseurl }}/publications/"
 
   - title: "Talks"
-    url: /talks/    
+    url: "{{ site.baseurl }}/talks/"    
 
   - title: "Teaching"
-    url: /teaching/  
+    url: "{{ site.baseurl }}/teaching/"
 
   - title: "Openings"
-    url: /openings/
+    url: "{{ site.baseurl }}/openings/"
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -34,10 +34,10 @@ main:
   #   url: /cv-json/
 
   - title: "Team"
-    url: /team/
+    url: "{{ site.baseurl }}/team/"
 
   - title: "Come visit!"
-    url: /contact/
+    url: "{{ site.baseurl }}/contact/"
     
   - title: "Guide"
-    url: /markdown/
+    url: "{{ site.baseurl }}/markdown/"
