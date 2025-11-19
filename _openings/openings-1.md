@@ -9,7 +9,9 @@ Our team is looking to fill the following positions:
 
 ### Master Project MEDiQ
 #### Context and Motivation
-The Biomedical [Data Translator project (NIH/NCATS)](https://ncats.nih.gov/research/research-activities/translator/about) seeks to revolutionize disease biology understanding by developing a robust and interpretable machine learning framework that translates complex biomedical data into actionable insights. In a federated and distributed framework, the platform makes recommendations of biological mechanisms involved in diseases to researchers from different disciplines. AI models analyze data across multiple sources, including clinical trials, genomic sequencing, proteomics, metabolomics, etc and provide an explanation of their reasoning that led to the recommendations. The project aims to improve the recommandations quality by integrating user preferences through reinforcement learning techniques. This project has the potential to identify novel therapeutic targets and uncover underlying biological mechanisms involved in this complex condition.
+The Biomedical [Data Translator project (NIH/NCATS)](https://ncats.nih.gov/research/research-activities/translator/about) seeks to revolutionize disease biology understanding by developing a robust and interpretable machine learning framework that translates complex biomedical data into actionable insights. In a federated and distributed framework, the platform makes recommendations of biological mechanisms involved in diseases to researchers from different disciplines. AI models analyze data across multiple sources, including clinical trials, genomic sequencing, proteomics, metabolomics, etc and provide an explanation of their reasoning that led to the recommendations. 
+
+The project aims to improve the recommandations quality by integrating user preferences through reinforcement learning techniques. This project has the potential to identify novel therapeutic targets and uncover underlying biological mechanisms involved in this complex condition.
 
 #### Objectives
 The successful candidate will contribute to building a prototype of Reinforcement Learning (RL) on biological data, specifically focusing on [Facioscapulohumeral muscular dystrophy](https://en.wikipedia.org/wiki/Facioscapulohumeral_muscular_dystrophy), a muscular rare disease. 
@@ -28,7 +30,7 @@ We seek a motivated student with:
 - **Strong communication skills for collaborating with scientists from diverse backgrounds
 
 #### Expected Outcomes
-The internship will deliver a validated prototype for improving the quality of the answers and has the potential to identify novel therapeutic targets and uncover underlying biological mechanisms involved in this complex condition. 
+The internship will deliver a validated prototype for improving the quality of the answers and has the potential to identify novel therapeutic targets and uncover underlying biological mechanisms involved in this complex condition. The results of this protoype will be further tested in the lab.
 
 #### What We Offer:
 - **Opportunity to work on a cutting-edge project in the field of biomedical data analysis
