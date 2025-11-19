@@ -1,6 +1,6 @@
 ---
 title: "Master 2 - Project MEDiQ"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "MEDIQ<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 Our team is looking to fill the following positions:
