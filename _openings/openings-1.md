@@ -1,7 +1,8 @@
 ---
 title: "Master 2 - Project MEDiQ"
-excerpt: "MEDIQ<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "Project for a master 2 or last semester of engineering school internship (PFE) in deep and classic reinforcement learning. This project has the potential to identify novel therapeutic targets and uncover underlying biological mechanisms involved in diseases.
+#explanability #reinforment learning #deep learning #machine learning #rare diseases #knowledge graphs"
+collection: openings
 ---
 Our team is looking to fill the following positions:
 
@@ -38,6 +39,8 @@ The internship will deliver a validated prototype for improving the quality of t
 
 If you're passionate about applying machine learning and computational methods to biomedical research or are seeking a first experience in this field, we'd love to hear from you!
 
+
+keywords : explanability, reinforment learning, deep learning, machine learning, rare diseases, knowledge graphs
 
 Publications:
  [DOI:10.1109/TKDE.2023.3237741](https://arxiv.org/pdf/2111.12262)

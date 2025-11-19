@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : ""
 title_separator          : "-"
 name                     : &name ""
@@ -24,9 +24,9 @@ repository               : "https://sandrine-muller.github.io" # the URL to your
 author:
   # Biographic information
   avatar           : "Grenoble_City.jpg"
-  name             : "Sandrine Muller"
+  name             : "Sandrine Muller @ DAISY team - LIG"
   pronouns         : "she/her"  
-  bio              : "Browse our team efforts, projects, and more!"
+  bio              : "Browse our group efforts, projects, and more!"
   location         : "Laboratoire d'Informatique de Grenoble, France"
   employer         : "Grenoble Alpes University"
   uri              : "https://sandrine-muller.github.io"
@@ -219,6 +219,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  openings:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -229,6 +232,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  contact:
     output: true
     permalink: /:collection/:path/
 

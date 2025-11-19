@@ -1,6 +1,6 @@
 ---
 title: "MEDiQ"
-excerpt: "Reinforcement learning for reasonning<br/><img src='/images/500x300.png'>"
+excerpt: "Reinforcement learning for reasonning.<br/><img src='/images/RLQA200x200.jpg'>"
 collection: portfolio
 ---
 

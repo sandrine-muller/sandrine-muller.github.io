@@ -39,5 +39,5 @@ main:
   - title: "Come visit!"
     url: /contact/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "How-to's"
+  #   url: /markdown/

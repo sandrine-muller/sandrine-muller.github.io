@@ -1,6 +1,6 @@
 ---
 title: "PROFILE"
-excerpt: "A RAG for profiling data sources<br/><img src='/images/500x300.png'>"
+excerpt: "A RAG for profiling automatedly data sources according to FAIR principles.<br/><img src='/images/profile-RAG.png'>"
 collection: portfolio
 ---
 
