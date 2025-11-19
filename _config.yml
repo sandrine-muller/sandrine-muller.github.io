@@ -27,7 +27,7 @@ author:
   name             : "Sandrine Muller @ DAISY team - LIG"
   pronouns         : "she/her"  
   bio              : "Browse some of our group efforts, projects, and more!"
-  location         : "Laboratoire d'Informatique de Grenoble, France"
+  location         : "LIG, France"
   employer         : "Grenoble Alpes University"
   uri              : "https://sandrine-muller.github.io"
   email            : "sandrine.muller[at]univ-grenoble-alpes.fr" 
@@ -221,7 +221,7 @@ kramdown:
 collections:
   openings:
     output: true
-    permalink: /:collection/:path/
+    permalink: /openings/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -237,6 +237,7 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
