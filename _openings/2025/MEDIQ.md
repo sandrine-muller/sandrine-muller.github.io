@@ -15,12 +15,7 @@ tags:
 ---
 
 
-
----
-Our team is looking to fill the following positions:
-
-
-Master Project MEDiQ (PFE, possibility to continue in PhD)
+Master Project MEDiQ (PFE or master intership, possibility to continue in PhD, 6 months)
 ======
 #### Context and Motivation
 The Biomedical [Data Translator project (NIH/NCATS)](https://ncats.nih.gov/research/research-activities/translator/about) seeks to revolutionize disease biology understanding by developing a robust and interpretable machine learning framework that translates complex biomedical data into actionable insights. In a federated and distributed framework, the platform makes recommendations of biological mechanisms involved in diseases to researchers from different disciplines. AI models analyze data across multiple sources, including clinical trials, genomic sequencing, proteomics, metabolomics, etc and provide an explanation of their reasoning that led to the recommendations. 
