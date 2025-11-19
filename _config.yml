@@ -16,7 +16,7 @@ description              : &description ""   # Update this with a general descri
 url                      : "https://sandrine-muller.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "https://sandrine-muller.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "https://sandrine-muller/" # the URL to your GitHub repository
+repository               : "https://sandrine-muller.github.io" # the URL to your GitHub repository
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "Grenoble_City.jpg"
   name             : "Sandrine Muller"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Browse our team efforts, projects, and more!"
   location         : "Laboratoire d'Informatique de Grenoble, France"
   employer         : "Grenoble Alpes University"
-  uri              : # URL
+  uri              : "https://sandrine-muller.github.io"
   email            : "sandrine.muller[at]univ-grenoble-alpes.fr" 
 
   # Academic websites
