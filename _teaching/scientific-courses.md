@@ -1,11 +1,11 @@
 ---
 title: "Scientific courses"
 collection: teaching
-type: "Undergraduate course"
+type: "Academic courses"
 permalink: /teaching/scientifc-courses
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country"
+venue: "University Grenoble Alpes"
+date: 2024 - Present
+location: "Grenoble, France"
 ---
 
 ## Scientific courses - Teaching 

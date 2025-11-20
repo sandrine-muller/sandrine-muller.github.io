@@ -1,11 +1,11 @@
 ---
 title: "Mentorship"
 collection: teaching
-# type: "Workshop"
+type: "Mentorship"
 permalink: /teaching/mentorship
-# venue: "University 1, Department"
-# date: 2015-01-01
-# location: "City, Country"
+venue: "University Grenoble Alpes"
+date: 2024 - Present
+location: "Grenoble, France"
 ---
 
 ## Mentorship:

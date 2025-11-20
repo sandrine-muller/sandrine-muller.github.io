@@ -1,11 +1,11 @@
 ---
 title: "Scientific vulgarization"
 collection: teaching
-# type: "Undergraduate course"
+type: "Talks and Workshops for the general public"
 permalink: /teaching/scientifc-vulgarization
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country"
+venue: "University Grenoble Alpes"
+date: 2016 - Present
+location: "Grenoble, France"
 ---
 
 ## Scientific vulgarization
