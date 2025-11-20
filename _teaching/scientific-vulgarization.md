@@ -9,7 +9,6 @@ location: "Grenoble, France"
 ---
 
 ## Scientific vulgarization
-======
 
 - July 2025: Presentation - Responsible Artificial Intelligence: Explainability Data Transparency and Security for Academic Stakeholders - Rhône-Alpes conference of Deans of Pharmacy, Clermont-Ferrand, France
 - June 2025: Workshop - Responsible Artificial Intelligence: Explainability Data Transparency and Security for Academic Stakeholders - Pharmacy University annual meeting, Grenoble, France
