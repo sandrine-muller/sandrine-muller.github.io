@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.tag {
+  display: inline-block;
+  background-color: #eef;
+  color: #334;
+  padding: 3px 6px;
+  margin-left: 6px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}

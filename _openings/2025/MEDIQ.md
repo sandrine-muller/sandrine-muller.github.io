@@ -1,19 +1,24 @@
 ---
 title: "Master 2 - Project MEDiQ"
-excerpt: "Project for a master 2 or last semester of engineering school internship (PFE) in deep and classic reinforcement learning. This project has the potential to identify novel therapeutic targets and uncover underlying biological mechanisms involved in diseases.
-#explanability #reinforment learning #deep learning #machine learning #rare diseases #knowledge graphs"
+excerpt: >
+  Project for a master 2 or last semester of engineering school internship (PFE) 
+  in deep and classic reinforcement learning. This project has the potential to 
+  identify novel therapeutic targets and uncover biological mechanisms involved 
+  in diseases. #explainability #reinforcement learning #deep learning #machine learning 
+  #rare diseases #knowledge graphs
 date: 2025-11-19
-permalink: /openings/2025/MEDIQ
-layout: archive
+permalink: /openings/2025/mediq/
+layout: single
 tags:
   - job offer
-  - explanability
-  - reinforment learning
+  - explainability
+  - reinforcement learning
   - deep learning
   - machine learning
   - rare diseases
   - knowledge graphs
 ---
+
 
 
 Master Project MEDiQ (PFE or master intership, possibility to continue in PhD, 6 months)
