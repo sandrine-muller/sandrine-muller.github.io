@@ -4,8 +4,8 @@ collection: teaching
 type: "Talks and Workshops for the general public"
 permalink: /teaching/scientifc-vulgarization
 venue: "University Grenoble Alpes"
-date: "2016 - Present"
 location: "Grenoble, France"
+date: 2024-01-01
 ---
 
 ## Scientific vulgarization

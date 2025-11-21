@@ -4,9 +4,10 @@ collection: teaching
 type: "Mentorship"
 permalink: /teaching/mentorship/
 venue: "University Grenoble Alpes"
-date: "2024 – Present"
 location: "Grenoble, France"
+date: 2025-01-01
 ---
+
 
 ## Mentorship:
 
