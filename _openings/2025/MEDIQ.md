@@ -1,11 +1,13 @@
 ---
 title: "Master 2 - Project MEDiQ"
-excerpt: >
-  Project for a master 2 or last semester of engineering school internship (PFE) 
-  in deep and classic reinforcement learning. This project has the potential to 
-  identify novel therapeutic targets and uncover biological mechanisms involved 
-  in diseases. #explainability #reinforcement learning #deep learning #machine learning 
-  #rare diseases #knowledge graphs
+excerpt: |
+  MedIQ focuses on the responsible AI development for healthcare, with a strong
+  emphasis on safety, monitoring, and uncertainty estimation. The goal of this
+  internship is to explore novel approaches to detect when AI systems may fail,
+  behave unpredictably, or produce unreliable predictions—essential for clinical
+  deployment. The project contributes to a broader infrastructure aimed at making
+  AI models trustworthy, auditable, and compliant with medical standards.
+  #explainability #HealthcareAI #ReinforcementLearning #DeepLearning #ML #rarediseases #KG
 date: 2025-11-19
 permalink: /openings/2025/mediq/
 layout: single
