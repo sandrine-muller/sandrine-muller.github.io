@@ -2,9 +2,9 @@
 title: "Mentorship"
 collection: teaching
 type: "Mentorship"
-permalink: /teaching/mentorship
+permalink: /teaching/mentorship/
 venue: "University Grenoble Alpes"
-date: 2024 - Present
+date: "2024 – Present"
 location: "Grenoble, France"
 ---
 

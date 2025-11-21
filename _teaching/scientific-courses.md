@@ -4,7 +4,7 @@ collection: teaching
 type: "Academic courses"
 permalink: /teaching/scientifc-courses
 venue: "University Grenoble Alpes"
-date: 2024 - Present
+date: "2024 - Present"
 location: "Grenoble, France"
 ---
 
