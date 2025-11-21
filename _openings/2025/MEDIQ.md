@@ -4,6 +4,7 @@ excerpt: "Project for a master 2 or last semester of engineering school internsh
 #explanability #reinforment learning #deep learning #machine learning #rare diseases #knowledge graphs"
 date: 2025-11-19
 permalink: /openings/2025/MEDIQ
+layout: archive
 tags:
   - job offer
   - explanability

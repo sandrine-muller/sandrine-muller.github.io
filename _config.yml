@@ -219,9 +219,12 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  team:
+    output: true
+    permalink: /team/:path/
   openings:
     output: true
-    permalink: /openings/:path/
+    permalink: /openings/:year/:slug/
   teaching:
     output: true
     permalink: /:collection/:path/

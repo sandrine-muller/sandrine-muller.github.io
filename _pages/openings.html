@@ -5,10 +5,17 @@ permalink: /openings/
 author_profile: true
 ---
 
-{% include base_path %}
+<div> <p> Our team is always looking for trainees to join our group. If you like what we are doing and thinking you could be a great fit, you can always apply even if the project/subject you'd be the most interested here is not in this list. We would be happy to hear your interests and work together. </p></div>
+
+<div> <p> Our team is looking to fill the following positions: </p></div>
 
 
+<!-- {% include base_path %} -->
 
-{% for post in site.openings %}
-  {% include archive-single.html %}
+{% assign openings = site.openings | sort: "date" | reverse %}
+
+{% for post in openings %}
+  {% unless post.path contains '_filled' %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}

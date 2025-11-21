@@ -3,7 +3,8 @@ title: "Master 2 - Project BRIDGE"
 excerpt: "Project for a master 2 or last semester of engineering school internship (PFE) in a software infrastructure that can automatically convert these prototypes into stable, documented, and FAIR-compliant web APIs, compatible with international standards like SmartAPI.
 #API #DevOps #FAIR Metadata #NLP #Reproductibility #Open Science"
 date: 2025-11-19
-permalink: /openings/2025/MEDIQ
+permalink: /openings/2025/MEDIQ/
+layout: archive
 tags:
   - job offer
   - API
