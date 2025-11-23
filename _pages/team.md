@@ -25,3 +25,9 @@ PIMLIG team, LIGLAB
 Senior staff scientist
 
 Laurent Torlay is a researcher at the Laboratoire d’Informatique de Grenoble (LIG), where he focuses on advancing computational methods and innovative technologies in computer science. His work bridges research and practical application, contributing to projects that enhance system performance, data analysis, and intelligent software design. Laurent collaborates across interdisciplinary teams within LIG and the broader scientific community, supporting initiatives that drive technological progress and applied research.
+
+
+---
+Alumni:
+
+Fatemeh Khodadadi, [M1BHE](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-ingenierie-de-la-sante-IAQKSXOB/parcours-biohealth-engineering-1st-year-MA28LBNP.html)
