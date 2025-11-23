@@ -1,6 +1,7 @@
 ---
-permalink: /team/
+permalink: /our-group/
 title: "Our group"
+layout: archive
 author_profile: true
 ---
 

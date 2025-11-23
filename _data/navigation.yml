@@ -13,7 +13,7 @@ main:
     url: /about/
 
   - title: "Our group"
-    url: /team/
+    url: /our-group/
 
   - title: "Portfolio"
     url: /portfolio/
