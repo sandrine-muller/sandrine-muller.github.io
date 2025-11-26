@@ -9,6 +9,28 @@ Are you a professional in the biomedical field? A researcher or an engineer inte
 
 If so, we would love to hear from you! We are always looking for people who want to collaborate on projects that will help us improve our research and make it more accessible to others.
 
+<iframe
+  src="https://framaforms.org/please-contact-us-1764161682"
+  width="100%"
+  height="800"
+  style="border:none; overflow:auto;">
+</iframe>
+
+---
+
+## Give your work some visibility
+
+You know our tools, what we are doing, and you'd like us to integrate a new data source or improving existing ones? Please let us know!
+We value your feedback and will make sure to hear your interests and work together.
+
+<iframe
+  src="https://framaforms.org/let-us-know-how-we-could-improve-1764162568"
+  width="100%"
+  height="800"
+  style="border:none; overflow:auto;">
+</iframe>
+
+
 ---
 
 ## Visit the LIGLAB
