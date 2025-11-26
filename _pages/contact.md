@@ -16,8 +16,8 @@ If so, we would love to hear from you! We are always looking for people who want
   style="border:none; overflow:auto;">
 </iframe>
 
-### Privacy and Data Protection
-
+##### Privacy and Data Protection
+<i style="font-size: 8pt;">
 The personal data you provide through this contact form (such as your name, email address, and message) will be collected and processed by Framaforms and Sandrine Muller, the data controller, for the purpose of responding to your inquiry and managing our communication.
 
 Your data will be processed lawfully, fairly, and transparently, and only for specified, explicit, and legitimate purposes.
@@ -31,6 +31,7 @@ Your personal data will be stored securely accordingly to the RGPD law and retai
 You have the right to access, rectify, delete, or restrict the processing of your personal data, as well as the right to data portability and to lodge a complaint with a supervisory authority.
 
 By submitting this form, you explicitly consent to the processing of your personal data according to these terms.
+</i>
 
 ---
 
@@ -46,8 +47,8 @@ We value your feedback and will make sure to hear your interests and work togeth
   style="border:none; overflow:auto;">
 </iframe>
 
-### Privacy and Data Protection
-
+##### Privacy and Data Protection
+<i style="font-size: 8pt;">
 The personal data you provide through this contact form (such as your name, email address, and message) will be collected and processed by Framaforms and Sandrine Muller, the data controller, for the purpose of responding to your inquiry and managing our communication.
 
 Your data will be processed lawfully, fairly, and transparently, and only for specified, explicit, and legitimate purposes.
@@ -61,6 +62,8 @@ Your personal data will be stored securely accordingly to the RGPD law and retai
 You have the right to access, rectify, delete, or restrict the processing of your personal data, as well as the right to data portability and to lodge a complaint with a supervisory authority.
 
 By submitting this form, you explicitly consent to the processing of your personal data according to these terms.
+</i>
+
 ---
 
 ## Visit the LIGLAB
