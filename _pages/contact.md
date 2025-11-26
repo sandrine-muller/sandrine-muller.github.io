@@ -9,12 +9,6 @@ Are you a professional in the biomedical field? A researcher or an engineer inte
 
 If so, we would love to hear from you! We are always looking for people who want to collaborate on projects that will help us improve our research and make it more accessible to others.
 
-<iframe
-  src="https://framaforms.org/please-contact-us-1764161682"
-  width="100%"
-  height="800"
-  style="border:none; overflow:auto;">
-</iframe>
 
 ##### Privacy and Data Protection
 <div style="font-style: italic; font-size: 8pt;">
@@ -32,6 +26,14 @@ If so, we would love to hear from you! We are always looking for people who want
 
 <p>By submitting this form, you explicitly consent to the processing of your personal data according to these terms.</p>
 </div>
+
+
+<iframe
+  src="https://framaforms.org/please-contact-us-1764161682"
+  width="100%"
+  height="800"
+  style="border:none; overflow:auto;">
+</iframe>
 
 ---
 
@@ -40,13 +42,6 @@ If so, we would love to hear from you! We are always looking for people who want
 You know our tools, what we are doing, and you'd like us to integrate a new data source or improving existing ones? Please let us know!
 We value your feedback and will make sure to hear your interests and work together.
 
-<iframe
-  src="https://framaforms.org/let-us-know-how-we-could-improve-1764162568"
-  width="100%"
-  height="800"
-  style="border:none; overflow:auto;">
-</iframe>
-
 ##### Privacy and Data Protection
 <div style="font-style: italic; font-size: 8pt;">
 <p>The personal data you provide through this contact form (such as your name, email address, and message) will be collected and processed by Framaforms and Sandrine Muller, the data controller, for the purpose of responding to your inquiry and managing our communication.</p>
@@ -63,6 +58,15 @@ We value your feedback and will make sure to hear your interests and work togeth
 
 <p>By submitting this form, you explicitly consent to the processing of your personal data according to these terms.</p>
 </div>
+
+
+<iframe
+  src="https://framaforms.org/let-us-know-how-we-could-improve-1764162568"
+  width="100%"
+  height="800"
+  style="border:none; overflow:auto;">
+</iframe>
+
 
 ---
 
