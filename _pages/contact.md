@@ -17,21 +17,21 @@ If so, we would love to hear from you! We are always looking for people who want
 </iframe>
 
 ##### Privacy and Data Protection
-<i style="font-size: 8pt;">
-The personal data you provide through this contact form (such as your name, email address, and message) will be collected and processed by Framaforms and Sandrine Muller, the data controller, for the purpose of responding to your inquiry and managing our communication.
+<div style="font-style: italic; font-size: 8pt;">
+<p>The personal data you provide through this contact form (such as your name, email address, and message) will be collected and processed by Framaforms and Sandrine Muller, the data controller, for the purpose of responding to your inquiry and managing our communication.</p>
 
-Your data will be processed lawfully, fairly, and transparently, and only for specified, explicit, and legitimate purposes.
+<p>Your data will be processed lawfully, fairly, and transparently, and only for specified, explicit, and legitimate purposes.</p>
 
-Consent to process your data is voluntary, can be withdrawn at any time by contacting us at the email address at the end of this page, and withdrawal will not affect the lawfulness of processing based on consent before its withdrawal.
+<p>Consent to process your data is voluntary, can be withdrawn at any time by contacting us at the email address at the end of this page, and withdrawal will not affect the lawfulness of processing based on consent before its withdrawal.</p>
 
-We do not share your personal data with third parties unless required by law or with your explicit consent.
+<p>We do not share your personal data with third parties unless required by law or with your explicit consent.</p>
 
-Your personal data will be stored securely accordingly to the RGPD law and retained only as long as necessary to fulfill the purposes stated or as legally required.
+<p>Your personal data will be stored securely accordingly to the RGPD law and retained only as long as necessary to fulfill the purposes stated or as legally required.</p>
 
-You have the right to access, rectify, delete, or restrict the processing of your personal data, as well as the right to data portability and to lodge a complaint with a supervisory authority.
+<p>You have the right to access, rectify, delete, or restrict the processing of your personal data, as well as the right to data portability and to lodge a complaint with a supervisory authority.</p>
 
-By submitting this form, you explicitly consent to the processing of your personal data according to these terms.
-</i>
+<p>By submitting this form, you explicitly consent to the processing of your personal data according to these terms.</p>
+</div>
 
 ---
 
@@ -48,21 +48,21 @@ We value your feedback and will make sure to hear your interests and work togeth
 </iframe>
 
 ##### Privacy and Data Protection
-<i style="font-size: 8pt;">
-The personal data you provide through this contact form (such as your name, email address, and message) will be collected and processed by Framaforms and Sandrine Muller, the data controller, for the purpose of responding to your inquiry and managing our communication.
+<div style="font-style: italic; font-size: 8pt;">
+<p>The personal data you provide through this contact form (such as your name, email address, and message) will be collected and processed by Framaforms and Sandrine Muller, the data controller, for the purpose of responding to your inquiry and managing our communication.</p>
 
-Your data will be processed lawfully, fairly, and transparently, and only for specified, explicit, and legitimate purposes.
+<p>Your data will be processed lawfully, fairly, and transparently, and only for specified, explicit, and legitimate purposes.</p>
 
-Consent to process your data is voluntary, can be withdrawn at any time by contacting us at the email address at the end of this page, and withdrawal will not affect the lawfulness of processing based on consent before its withdrawal.
+<p>Consent to process your data is voluntary, can be withdrawn at any time by contacting us at the email address at the end of this page, and withdrawal will not affect the lawfulness of processing based on consent before its withdrawal.</p>
 
-We do not share your personal data with third parties unless required by law or with your explicit consent.
+<p>We do not share your personal data with third parties unless required by law or with your explicit consent.</p>
 
-Your personal data will be stored securely accordingly to the RGPD law and retained only as long as necessary to fulfill the purposes stated or as legally required.
+<p>Your personal data will be stored securely accordingly to the RGPD law and retained only as long as necessary to fulfill the purposes stated or as legally required.</p>
 
-You have the right to access, rectify, delete, or restrict the processing of your personal data, as well as the right to data portability and to lodge a complaint with a supervisory authority.
+<p>You have the right to access, rectify, delete, or restrict the processing of your personal data, as well as the right to data portability and to lodge a complaint with a supervisory authority.</p>
 
-By submitting this form, you explicitly consent to the processing of your personal data according to these terms.
-</i>
+<p>By submitting this form, you explicitly consent to the processing of your personal data according to these terms.</p>
+</div>
 
 ---
 
