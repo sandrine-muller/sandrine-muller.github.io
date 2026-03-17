@@ -19,3 +19,13 @@ author_profile: true
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
+
+---
+
+<div> <p> Previous positions (filled): </p></div>
+
+{% for post in openings %}
+  {% if post.path contains '_filled' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
