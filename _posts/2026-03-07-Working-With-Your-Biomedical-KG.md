@@ -148,8 +148,8 @@ Now copy paste it all in a new Cypher query in the Neo4j Browser and run the 67 
 WARNING: make sure there is no characters like \" or \' in the copied query as it will cause syntax error.
 
 - Edges
-```
-Run this query to generate the imports commands up to `co`for the nodes:
+
+1. Run this query to generate the imports commands up to `co`for the nodes:
 WARNING: change `kj` with your max chunk name if using another KG. 
 ```
 WITH range(0,11*26-1) as indices
@@ -166,7 +166,7 @@ RETURN count(rel);" as query
 ORDER BY first + second;
 ```
 
-Run the queries and get your list of 337 Cypher commands:
+2. Run the queries and get your list of 337 Cypher commands:
 ```
 CALL apoc.load.json('file:///edges_chunk_aa') YIELD value 
 MATCH (from:Node {id: value.subject}) 
