@@ -240,6 +240,9 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
+  Blog Posts:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -249,7 +252,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: blog-posts
     values:
       layout: single
       author_profile: true

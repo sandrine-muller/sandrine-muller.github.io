@@ -1,10 +1,8 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /blog-posts/
 title: "Blog posts"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
@@ -18,19 +16,3 @@ redirect_from:
     {% include archive-single.html content=post.content %}
   {% endif %}
 {% endfor %}
-
-
-
-
-<!-- ---
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% assign post_year = post.date | split: "-" | first %}
-  {% if post_year > "2020" %}
-    <h2 id="{{ post_year | slugify }}" class="archive__subtitle">{{ post_year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %} -->
-

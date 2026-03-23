@@ -30,8 +30,8 @@ main:
   - title: "Openings"
     url: /openings/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /blog-posts/
     
   # - title: "CV"
   #   url: /cv/
