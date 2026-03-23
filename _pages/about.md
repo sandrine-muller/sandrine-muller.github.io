@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-We are dedicated to build and use advanced AI techniques (Bayesian algorithms, reinforcement learning, deep learning, system biology on graph theory...etc.) to help scientists, researchers, and medical professionals in understanding biological mechanisms and diseases applying out tools on RNAseq, proteomics, neuroimaging, neuropsychology... etc. data.
-Our core values include open science, reproducibility, explainability, and co-design with users to improve their experience.
+We are dedicated to build and use advanced AI techniques (Bayesian algorithms, reinforcement learning, deep learning, system biology on graph theory...etc.) to help scientists, researchers, and medical professionals in understanding biological mechanisms and diseases applying out tools on different scales of experimental and clinical data (RNAseq, proteomics, neuroimaging, neuropsychology... etc.). 
+
+Our core values include open science, reproducibility, explainability, and co-design with users to improve their experience and make AI tools truly useful.
 
 
 ---

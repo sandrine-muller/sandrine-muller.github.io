@@ -6,7 +6,7 @@ _site/
 local/
 
 # Ignore the Gemfile that is generated
-# Gemfile.lock
+Gemfile*
 
 # Ignore files created by npm
 node_modules
@@ -18,3 +18,13 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+.venv/
+
+# ignore some images files
+*.jpg
+*.xcf
+*.JPG
+
+# ignore examples
+examples/
+*example*
