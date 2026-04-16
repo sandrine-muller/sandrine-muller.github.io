@@ -28,7 +28,7 @@ Laurent Torlay is a researcher at the Laboratoire d’Informatique de Grenoble (
 Junior Research Engineer
 Grenoble Alpes University
 
-Mohammed Mehdi Ketata is an engineer and recent graduate of the École des Mines, where he completed the “Ingénieur Civil des Mines” program. His training focused on applied mathematics, modeling, and complex systems, with a strong emphasis on quantitative analysis and problem solving in engineering and industrial contexts. He combines technical rigor with a structured approach to data‑driven decision making, and is interested in roles at the intersection of engineering, analytics, and innovation management.
+Mohammed Mehdi Ketata is an engineer and recent graduate of the École des Mines, FR, where he completed the “Ingénieur Civil des Mines” program. His training focused on applied mathematics, modeling, and complex systems, with a strong emphasis on quantitative analysis and problem solving in engineering and industrial contexts. He combines technical rigor with a structured approach to data‑driven decision making, and is interested in roles at the intersection of engineering, analytics, and innovation management.
 
 ---
 
@@ -45,11 +45,11 @@ Computer Scientist Scholar
 Grenoble Alpes University
 MEDIQ project: Reinforcement learning
 
-- Zijing Chen, [M1BHE](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-ingenierie-de-la-sante-IAQKSXOB/parcours-biohealth-engineering-1st-year-MA28LBNP.html)
+- Zijing Chen, [BHE](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-ingenierie-de-la-sante-IAQKSXOB/parcours-biohealth-engineering-1st-year-MA28LBNP.html) M1 student 
 Biochemistry and data analysis
 FSHD1 RNA sequencing analysis
 
-- Lookman Jamad, Msc. Methodology and Technology for Health M1 student 
+- Lookman Jamad, Msc. [Methodology and Technology for Health](https://licences-masters-sante.univ-grenoble-alpes.fr/masters/medtechs-numerique-et-physique-appliques-a-la-sante/m1-methodes-et-technologies-pour-la-sante-mts-/m1-methodes-et-technologies-pour-la-sante-mts--279873.kjsp) M1 student 
 Neuroimaging data analyst
 Grenoble Alpes University
 Multivariate Bayes for neuroimaging
