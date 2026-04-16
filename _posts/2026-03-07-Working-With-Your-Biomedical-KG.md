@@ -10,7 +10,7 @@ tags:
   - System Biology
 ---
 
-As a data scientist, a student needing to perform data science tasks, you may be interested to work on Knowledge Graphs (KG). The past decades, the biomedical research community has been working on the development of Knowledge Graphs to represent complex biomedical data. In this post, we will discover how you could start working with Knowledge Graphs and Biomedical KG. 
+As a data scientist, a student needing to perform data science tasks, you may be interested to work on Knowledge Graphs (KG). The past decades, the biomedical research community has been working on the development of Knowledge Graphs to represent complex biomedical data. In this post, we will discover how you could start working with Knowledge Graphs and Biomedical KG using Neo4J. 
 
 
 Introduction
