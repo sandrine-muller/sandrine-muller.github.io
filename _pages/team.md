@@ -46,6 +46,13 @@ Grenoble Alpes University
 MEDIQ project: Reinforcement learning
 
 - Zijing Chen, [M1BHE](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-ingenierie-de-la-sante-IAQKSXOB/parcours-biohealth-engineering-1st-year-MA28LBNP.html)
+Biochemistry and data analysis
+FSHD1 RNA sequencing analysis
+
+- Lookman Jamad, Msc. Methodology and Technology for Health M1 student 
+Neuroimaging data analyst
+Grenoble Alpes University
+Multivariate Bayes for neuroimaging
 
 ---
 
