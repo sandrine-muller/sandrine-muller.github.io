@@ -2,6 +2,7 @@
 title: 'Working With Your Biomedical KG'
 date: 2026-03-07
 permalink: /posts/2026/03/2026-03-07-Working-With-Your-Biomedical-KG/
+author: Sandrine Muller
 tags:
   - Data Science
   - Knowledge Graphs
