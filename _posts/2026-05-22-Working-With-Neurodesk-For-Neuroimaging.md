@@ -12,10 +12,13 @@ tags:
   - Neurosciences workflows
 ---
 
+  
+
 As a data analyst or a student needing to perform complex neuroimaging tasks or workflows, you may be interested in accessing a wide array of specialized neuroimaging tools without the headache of manual installation. 
 
 In this post, we will explore how **Neurodesk** provides a streamlined, containerized environment to run powerful neuroimaging tools seamlessly. We will walk through the setup process and show you how to get your environment ready for analysis.
 
+<p class="post-authors" style="font-size: 0.85em; color: #666; margin-top: -10px; margin-bottom: 20px;">By Lookman Jamad, Mehdi Ketata, Sandrine Muller</p>
 ---
 
 # Neurodesk Installation Guide

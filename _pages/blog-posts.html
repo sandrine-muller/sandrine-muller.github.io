@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /blog-posts/
+permalink: /learn-more/
 title: "Learn more"
 author_profile: true
 ---
@@ -14,5 +14,6 @@ author_profile: true
     <h2 id="{{ post_year | slugify }}" class="archive__subtitle">{{ post_year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
     {% include archive-single.html content=post.content %}
+    <!-- {% include archive-single.html post=post %} -->
   {% endif %}
 {% endfor %}
