@@ -21,8 +21,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/  
@@ -30,14 +30,17 @@ main:
   - title: "Openings"
     url: /openings/
         
-  - title: "Blog Posts"
-    url: /blog-posts/
+  - title: "Learn more"
+    url: /learn-more/
     
   # - title: "CV"
   #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
+
+  - title: "Material"
+    url: /material/
 
   - title: "Come visit!"
     url: /contact/

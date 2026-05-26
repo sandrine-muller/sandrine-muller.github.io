@@ -240,7 +240,7 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
-  Blog Posts:
+  Learn more:
     output: true
     permalink: /:collection/:path/
 
