@@ -8,6 +8,12 @@ author_profile: true
 AI4Health@DAISY will take place on Tuesdays 10am-11am in room 304 at LIG in IMAG building (a meeting link will be provided for an hybrid meeting).
 This is a time to present where you are at, request feedbacks from others, collaborate, and share.
 
+## Tuesday June 23rd, 2026
+HYBRID
+### MEDIQ  (1/2h)
+- Lucca Hoogenbosch
+MEDiQ: Expert-guided Reinforcement Learning for transparent biomedical pathway reasoning
+
 ## Tuesday June 2nd, 2026
 HYBRID
 ### Neuroimaging (40min)
