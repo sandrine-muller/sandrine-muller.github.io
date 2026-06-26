@@ -11,7 +11,7 @@ date: 2026-06-15
 location: "Saint-Blaise-Buis/Bordeaux, France"
 ---
 
- ### Laterality in Language: diversity in the human brain
+### Laterality in Language: diversity in the human brain
  
 **_We all look different on the outside—but what does diversity look like on the inside?_** 
 
