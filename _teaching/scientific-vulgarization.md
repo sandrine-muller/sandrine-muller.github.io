@@ -7,6 +7,7 @@ venue: "University Grenoble Alpes"
 location: "Grenoble, France"
 date: 2024-01-01
 ---
+- June 15th 2026: Mehdi Ketata/Sandrine Muller - [Laterality in Language: diversity in the human brain](https://mehdiketatammk.github.io/project%20OHBM.html) - Official satellite event of "Brain Mappers of Tomorrow" An initiative of the Organization for Human Brain Mapping (OHBM), organized by the Diversity and Inclusion committee - Scientific outreach to students at Paulette Collavet elementary school
 
 - April 2026: Connecting Webinar Expertise: Imaging Data - Future of integration and exploitation of neuroimaging data - AI4Health @DAISY vision - [UGA](https://www.univ-grenoble-alpes.fr/),FR/[Swansea University](https://www.swansea.ac.uk/), UK
 Watch the recording [here](https://www.youtube.com/watch?v=Y-F3S51T4Rk)
