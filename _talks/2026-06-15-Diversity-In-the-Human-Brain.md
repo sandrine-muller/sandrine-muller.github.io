@@ -4,11 +4,11 @@ collection: talks
 type: "Talk"
 permalink: /talks/2026-06-15
 venue: "OHBM satellite event - Brain Mappers of Tomorrow"
-date: 2026-03-30
+date: 2026-06-15
 # file_links:
 #   - title: "Download Presentation (PDF)"
 #     url: "/assets/pdf/presentation.pdf"
-location: "Population Data Science at Swansea University, UK/France, remote"
+location: "Saint-Blaise-Buis/Bordeaux, France"
 ---
 
  ### Laterality in Language: diversity in the human brain
